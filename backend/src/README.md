@@ -25,3 +25,7 @@ API unntuk proses registrasi pengguna baru.
 -false:
 *status : error
 *message : registrasi gagal
+
+berikut adalah penampakan nya:
+![image](https://github.com/user-attachments/assets/4e958353-12a0-4bb9-b3a7-4af2bbae19e5)
+
